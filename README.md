@@ -1,16 +1,15 @@
-About me:
+# About me:
 Electronics engineering graduate and an entrepreneur. Enjoying life and taking risks to see what could happen next. Ya, That is me
 
-Degrees:
+# Degrees:
 BA, Electronics Engineering
-
 Sudan University of Science and Technology (2023)
 
-Languages:
+# Languages:
 Arabic, English
 
-Technologies:
+# Technologies:
 MS Excel, MS PowerPoint, Meta Business Suit
 
-Industries:
+# Industries:
 Tech, Entrepreneurship, Fashion Design, Food and Beverages
